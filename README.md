@@ -8,7 +8,7 @@ An excellent source for 1337, can be found [here](https://github.com/RPISEC/Malw
 
 **Notes
 *ehh buggy and sloppy as hell but it could use some window API's to clean up the console when extracting mine layouts of different size 
-*the hTools is a neat overview of Window's HANDLES, PROCESSES, and etc (self note)
+*the hTools file has a neat overview of Window's HANDLES, PROCESSES, and etc (self note)
 
 **Hmm.. haxor haxor?**
 *Big credits to [Guided Hacking](https://github.com/guided-hacking), an online forum that taught much - thank you.
